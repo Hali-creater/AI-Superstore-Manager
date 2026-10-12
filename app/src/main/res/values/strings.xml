@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">AI Superstore Manager</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_sales">Sales</string>
+    <string name="nav_bills">Bill Import</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_active_products">Active Products</string>
+    <string name="dashboard_today_sales">Today\'s Sales</string>
+    <string name="dashboard_completed_sales">Completed Sales</string>
+    <string name="dashboard_low_stock">Low Stock Alerts</string>
+    <string name="dashboard_out_of_stock">Out of Stock</string>
+    <string name="dashboard_gross_profit">Est. Gross Profit</string>
+    <string name="dashboard_pending_bills">Pending Bills</string>
+    <string name="dashboard_sync_status">Backup &amp; Sync Status</string>
+    <string name="dashboard_quick_actions">Quick Actions</string>
+    <string name="dashboard_action_new_sale">New Sale</string>
+    <string name="dashboard_action_add_product">Add Product</string>
+    <string name="dashboard_action_import_bill">Import Bill</string>
+    <string name="dashboard_action_receive_stock">Receive Stock</string>
+
+    <!-- General Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_search">Search</string>
+    <string name="action_add">Add</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_back">Back</string>
+    <string name="action_voice_search">Voice Input</string>
+    <string name="action_take_photo">Take Photo</string>
+    <string name="action_pick_photo">Choose Photo</string>
+    <string name="action_ai_identify">AI Auto-Fill</string>
+    <string name="action_export_csv">Export CSV</string>
+    <string name="action_backup_now">Backup Now</string>
+    <string name="action_restore_backup">Restore Backup</string>
+
+    <!-- Product -->
+    <string name="product_catalogue">Product Catalogue</string>
+    <string name="product_add">Add Product</string>
+    <string name="product_edit">Edit Product</string>
+    <string name="product_detail">Product Details</string>
+    <string name="product_name_en">Product Name (English)</string>
+    <string name="product_name_ur">Product Name (Urdu)</string>
+    <string name="product_brand">Brand</string>
+    <string name="product_category">Category</string>
+    <string name="product_unit">Base Unit</string>
+    <string name="product_stock_qty">Current Stock</string>
+    <string name="product_opening_stock">Opening Stock</string>
+    <string name="product_cost_price">Purchase Cost (Rs.)</string>
+    <string name="product_selling_price">Selling Price (Rs.)</string>
+    <string name="product_min_threshold">Min Stock Threshold</string>
+    <string name="product_barcode">Barcode / SKU</string>
+    <string name="product_expiry">Expiry Date</string>
+    <string name="product_history">Stock History</string>
+    <string name="product_aliases">Aliases / Local Nicknames</string>
+    <string name="product_add_alias">Add Alias</string>
+
+    <!-- Units -->
+    <string name="unit_pcs">Pieces (Pcs)</string>
+    <string name="unit_pkt">Packets (Pkt)</string>
+    <string name="unit_kg">Kilograms (kg)</string>
+    <string name="unit_g">Grams (g)</string>
+    <string name="unit_l">Litres (L)</string>
+    <string name="unit_ml">Millilitres (ml)</string>
+
+    <!-- Sales -->
+    <string name="sales_title">Manual Sales</string>
+    <string name="sales_cart">Current Cart</string>
+    <string name="sales_total">Total Amount</string>
+    <string name="sales_discount">Discount</string>
+    <string name="sales_complete">Complete Sale</string>
+    <string name="sales_history">Sales History</string>
+
+    <!-- Receiving & Stock -->
+    <string name="stock_receiving">Stock Receiving</string>
+    <string name="stock_adjust">Stock Adjustment</string>
+    <string name="stock_supplier">Supplier Name</string>
+    <string name="stock_reason">Adjustment Reason</string>
+
+    <!-- Bill Import -->
+    <string name="bill_import_title">Bill Photo Import</string>
+    <string name="bill_review_title">Bill Review &amp; Confirm</string>
+    <string name="bill_original_text">Original Text</string>
+    <string name="bill_matched_product">Matched Product</string>
+    <string name="bill_unresolved">Unresolved Items</string>
+    <string name="bill_confirm_all">Confirm &amp; Deduct Stock</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Sales &amp; Financial Reports</string>
+    <string name="reports_sales_revenue">Sales Revenue</string>
+    <string name="reports_cogs">Cost of Goods Sold (COGS)</string>
+    <string name="reports_gross_profit">Estimated Gross Profit</string>
+    <string name="reports_stock_value">Stock Valuation</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">App Language</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_lang_ur">Urdu (اردو)</string>
+    <string name="settings_ai_config">AI Provider Configuration</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_cloud_config">Cloud Backup Setup</string>
+    <string name="settings_privacy">Privacy &amp; Data Security</string>
+</resources>
