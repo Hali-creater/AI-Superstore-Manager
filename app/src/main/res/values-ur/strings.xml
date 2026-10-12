@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">اے آئی سپر اسٹور مینیجر</string>
+    <string name="nav_home">ہوم</string>
+    <string name="nav_products">مصنوعات</string>
+    <string name="nav_sales">سیل / فروخت</string>
+    <string name="nav_bills">بل امپورٹ</string>
+    <string name="nav_reports">رپورٹس</string>
+    <string name="nav_settings">سیٹنگز</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">ڈیش بورڈ</string>
+    <string name="dashboard_active_products">فعال مصنوعات</string>
+    <string name="dashboard_today_sales">آج کی کل فروخت</string>
+    <string name="dashboard_completed_sales">مکمل شدہ سیلز</string>
+    <string name="dashboard_low_stock">کم اسٹاک الرٹ</string>
+    <string name="dashboard_out_of_stock">خالی اسٹاک</string>
+    <string name="dashboard_gross_profit">تخمینہ منافع</string>
+    <string name="dashboard_pending_bills">زیر التواء بل</string>
+    <string name="dashboard_sync_status">بیک اپ اور سنک کی صورتحال</string>
+    <string name="dashboard_quick_actions">فوری اقدامات</string>
+    <string name="dashboard_action_new_sale">نئی سیل کریں</string>
+    <string name="dashboard_action_add_product">نئی پروڈکٹ شامل کریں</string>
+    <string name="dashboard_action_import_bill">بل امپورٹ کریں</string>
+    <string name="dashboard_action_receive_stock">نیا اسٹاک حاصل کریں</string>
+
+    <!-- General Actions -->
+    <string name="action_save">محفوظ کریں</string>
+    <string name="action_cancel">منسوخ کریں</string>
+    <string name="action_delete">حذف کریں</string>
+    <string name="action_edit">ترمیم کریں</string>
+    <string name="action_confirm">تائید کریں</string>
+    <string name="action_search">تلاش کریں</string>
+    <string name="action_add">شامل کریں</string>
+    <string name="action_retry">دوبارہ کوشش کریں</string>
+    <string name="action_back">واپس</string>
+    <string name="action_voice_search">آواز سے ان پٹ</string>
+    <string name="action_take_photo">تصویر بنائیں</string>
+    <string name="action_pick_photo">تصویر منتخب کریں</string>
+    <string name="action_ai_identify">اے آئی کی مدد سے بھریں</string>
+    <string name="action_export_csv">سی ایس وی ایکسپورٹ</string>
+    <string name="action_backup_now">ابھی بیک اپ لیں</string>
+    <string name="action_restore_backup">بیک اپ بحال کریں</string>
+
+    <!-- Product -->
+    <string name="product_catalogue">مصنوعات کی فہرست</string>
+    <string name="product_add">پروڈکٹ شامل کریں</string>
+    <string name="product_edit">پروڈکٹ کی ترمیم</string>
+    <string name="product_detail">پروڈکٹ کی تفصیلات</string>
+    <string name="product_name_en">نام (انگریزی)</string>
+    <string name="product_name_ur">نام (اردو)</string>
+    <string name="product_brand">برانڈ</string>
+    <string name="product_category">کیٹیگری</string>
+    <string name="product_unit">پیمائش کی اکائی</string>
+    <string name="product_stock_qty">موجودہ اسٹاک</string>
+    <string name="product_opening_stock">ابتدائی اسٹاک</string>
+    <string name="product_cost_price">خریداری قیمت (روپے)</string>
+    <string name="product_selling_price">فروخت قیمت (روپے)</string>
+    <string name="product_min_threshold">کم از کم اسٹاک حد</string>
+    <string name="product_barcode">بارکوڈ / ایس کیو یو</string>
+    <string name="product_expiry">تاریخِ انقضاء</string>
+    <string name="product_history">اسٹاک ہسٹری</string>
+    <string name="product_aliases">مقامی نام / عرفیت</string>
+    <string name="product_add_alias">نیا عرفیت شامل کریں</string>
+
+    <!-- Units -->
+    <string name="unit_pcs">عدد / دانہ (Pcs)</string>
+    <string name="unit_pkt">پیکٹ (Pkt)</string>
+    <string name="unit_kg">کلوگرام (kg)</string>
+    <string name="unit_g">گرام (g)</string>
+    <string name="unit_l">لیٹر (L)</string>
+    <string name="unit_ml">ملی لیٹر (ml)</string>
+
+    <!-- Sales -->
+    <string name="sales_title">مینول فروخت</string>
+    <string name="sales_cart">موجودہ ٹوکری</string>
+    <string name="sales_total">کل رقم</string>
+    <string name="sales_discount">رعایت</string>
+    <string name="sales_complete">فروخت مکمل کریں</string>
+    <string name="sales_history">فروخت کی تاریخ</string>
+
+    <!-- Receiving & Stock -->
+    <string name="stock_receiving">اسٹاک وصولی</string>
+    <string name="stock_adjust">اسٹاک کی درستگی</string>
+    <string name="stock_supplier">سپلائر کا نام</string>
+    <string name="stock_reason">درستگی کی وجہ</string>
+
+    <!-- Bill Import -->
+    <string name="bill_import_title">تحریری بل امپورٹ</string>
+    <string name="bill_review_title">بل کا جائزہ اور تائید</string>
+    <string name="bill_original_text">اصل تحریر</string>
+    <string name="bill_matched_product">ملتی جلتی پروڈکٹ</string>
+    <string name="bill_unresolved">غیر حل شدہ اشیاء</string>
+    <string name="bill_confirm_all">تائید کریں اور اسٹاک کم کریں</string>
+
+    <!-- Reports -->
+    <string name="reports_title">سیلز اور مالیاتی رپورٹس</string>
+    <string name="reports_sales_revenue">کل فروخت آمدن</string>
+    <string name="reports_cogs">فروخت شدہ اشیاء کی لاگت</string>
+    <string name="reports_gross_profit">تخمینہ خام منافع</string>
+    <string name="reports_stock_value">اسٹاک کی کل مالیت</string>
+
+    <!-- Settings -->
+    <string name="settings_title">سیٹنگز</string>
+    <string name="settings_language">ایپ کی زبان</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_lang_ur">اردو (Urdu)</string>
+    <string name="settings_ai_config">اے آئی سروس کی ترتیب</string>
+    <string name="settings_api_key">اے پی آئی کی (API Key)</string>
+    <string name="settings_cloud_config">کلاؤڈ بیک اپ ترتیب</string>
+    <string name="settings_privacy">پرائیویسی اور ڈیٹا تحفظ</string>
+</resources>
