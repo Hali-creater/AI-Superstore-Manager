@@ -4,6 +4,9 @@ An offline-first Android application designed for superstore shopkeepers in Paki
 
 ---
 
+## UI Layout & Design
+Detailed visual text wireframes for all major screens (Home Dashboard, Product Catalogue, Manual Sales Cart, Handwritten Bill Review, Financial Reports) are documented in [`UI_WIRE FRAMES.md`](UI_WIRE%20FRAMES.md).
+
 ## Key Features
 
 - **Offline-First Core:** Full inventory management, manual sales recording, stock receiving, physical adjustments, and report generation work without an internet connection.
